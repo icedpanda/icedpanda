@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 [![Ollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=icedpanda&count_private=true&show_icons=true&hide=prs)](https://github.com/icedpanda)
 
 ---
-📊 **This week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
