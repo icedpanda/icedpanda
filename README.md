@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python           1 hr 30 mins    ██████████████░░░░░░░░░░░   55.83 %
-Jupyter          1 hr 11 mins    ███████████░░░░░░░░░░░░░░   44.17 %
+Python           4 hrs 40 mins   ███████████████████▒░░░░░   77.49 %
+Jupyter          1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
