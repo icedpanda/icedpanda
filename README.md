@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python           5 hrs 38 mins   ███████████████████▓░░░░░   78.57 %
-Jupyter          1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python           8 hrs 29 mins   ████████████████████████░   95.87 %
+Jupyter          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
