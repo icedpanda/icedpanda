@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSV          38 mins         ████████▓░░░░░░░░░░░░░░░░   34.17 %
-JSON-lines   32 mins         ███████▒░░░░░░░░░░░░░░░░░   28.93 %
-Jupyter      30 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
-JSON         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JSON-lines   32 mins         ███████████████▒░░░░░░░░░   61.71 %
+JSON         11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+CSV          8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
