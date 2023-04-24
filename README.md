@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON-lines   20 mins         ██████████████████████▒░░   89.47 %
+CSV          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Jupyter      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
