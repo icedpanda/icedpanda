@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 58 mins    ███████████████████▓░░░░░   79.11 %
-Jupyter          22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-YAML             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python           5 hrs 14 mins   ███████████████████░░░░░░   76.48 %
+Jupyter          42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+YAML             31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JSON             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+JSON-lines       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
