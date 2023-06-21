@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Jupyter    1 hr 10 mins    ████████████████████▒░░░░   81.37 %
+Markdown   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Python     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+CSV        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
