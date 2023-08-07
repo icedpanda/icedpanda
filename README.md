@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 -->
 [![Ollie's GitHub stats](https://github-readme-stats-icedpanda.vercel.app/api?username=icedpanda&count_private=true&show_icons=true)](https://github.com/icedpanda)
 
----
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
+[//]: # (---)
 
-```txt
-Jupyter          1 hr 44 mins    ████████████████████████░   95.57 %
-JSON             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
+[//]: # (📊 **This week I spent my time on:**)
 
-<!--END_SECTION:waka-->
+[//]: # (<!--START_SECTION:waka-->)
+
+[//]: # ()
+[//]: # (```text)
+
+[//]: # (Python   2 hrs 15 mins   ███████████████████████▓░   94.77 %)
+
+[//]: # (YAML     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %)
+
+[//]: # (```)
+
+[//]: # ()
+[//]: # (<!--END_SECTION:waka-->)
