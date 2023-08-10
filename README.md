@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 [//]: # (<!--START_SECTION:waka-->
 
 ```txt
-Jupyter          9 hrs 15 mins   ███████████████▓░░░░░░░░░   62.41 %
-Python           4 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.86 %
-JSON             57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Markdown         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Jupyter          11 hrs 4 mins   ███████████████░░░░░░░░░░   60.38 %
+Python           5 hrs 40 mins   ███████▓░░░░░░░░░░░░░░░░░   30.95 %
+JSON             1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Markdown         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->)
